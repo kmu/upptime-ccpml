@@ -43,17 +43,17 @@
     "url": "https://molview.org/",
     "icon": "https://icons.duckduckgo.com/ip3/molview.org.ico",
     "slug": "molview",
-    "status": "up",
-    "uptime": "98.05%",
+    "status": "down",
+    "uptime": "98.07%",
     "uptimeDay": "94.50%",
     "uptimeWeek": "95.26%",
     "uptimeMonth": "96.36%",
-    "uptimeYear": "98.05%",
-    "time": 745,
-    "timeDay": 625,
-    "timeWeek": 616,
-    "timeMonth": 683,
-    "timeYear": 745,
+    "uptimeYear": "98.07%",
+    "time": 744,
+    "timeDay": 570,
+    "timeWeek": 607,
+    "timeMonth": 680,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2026-03-22": 66,
       "2026-03-21": 13,
@@ -101,7 +101,7 @@
       "2026-01-22": 58,
       "2026-01-21": 47,
       "2026-01-20": 35,
-      "2026-01-19": 61
+      "2026-01-19": 32
     }
   }
 ]
